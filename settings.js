@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2347057344983"
+global.pairingNumber = "923271241658"
 
 
 
@@ -15,14 +15,14 @@ global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
 global.egg = "15"
 global.loc = "1"
-global.anticall = false
+global.anticall = true 
 global.autoReadChat = false
 global.alwaysonline = true
-global.autoswview = false
-global.public = true
-global.autoreact = false
-global.antidelete = false
-global.autotyping = false
+global.autoswview = true
+global.public = false
+global.autoreact = true
+global.antidelete = true
+global.autotyping = true
 global.autoBio = true
 global.antiSpam = true
 global.sign = "𓃵"
@@ -45,7 +45,7 @@ global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
 global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
 global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
-global.fake = botName
+global.fake = it's AHMAD
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
 global.themeemoji = '🔆'
@@ -53,7 +53,7 @@ global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12801047.jpg",
 "https://wallpapercave.com/wp/wp12456894.jpg"]
 global.baileysMd = true
-global.multi = false
+global.multi = true
 global.prefa = "!"
 global.Console = false
 global.autorespon = false
